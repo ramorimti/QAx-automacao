@@ -1,0 +1,15 @@
+
+{
+    "success": {
+        "email": "qax@test.com",
+        "name": "QATest",
+        "password": "test123"
+     },
+
+     "invregister":{
+        "email": "qar@test.com",
+        "name": "QATeste",
+        "password": "test1239"
+     }
+
+}
